@@ -1,0 +1,5 @@
+{
+  "name": "Algebra Speed Test",
+  "description": "A web application designed to test a student's basic algebra skills. It presents one question at a time and tracks the time taken to answer 30 questions, along with the number of correct answers.",
+  "requestFramePermissions": []
+}
